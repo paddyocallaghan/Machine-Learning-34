@@ -1,6 +1,6 @@
 # Group 34 Machine Learning Project
 
-## Group Report - [link](https://docs.google.com/document/d/1-gsVuR3IqdtUZu5cBeyeYgEgo0b4Sva80B8jwHQo-4E/edit#heading=h.ubtthregjjhw)
+## Group Report - [link](https://github.com/paddyocallaghan/Machine-Learning-34/blob/main/Group%20Project%20Report.pdf)
 
 ## Team Members:
 - Patrick O Callaghan - 19334526
